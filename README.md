@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando Jose Ortiz</h1>
 <h3 align="center">A passionate frontend developer from Domican Republic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nanrtizz&label=Profile%20views&color=0e75b6&style=flat" alt="nanrtizz" /> </p>
 
-src="https://img.shields.io/twitter/follow/https://x.com/nando_jd21?logo=twitter&style=for-the-badge" alt="https://x.com/nando_jd21" /></a> </p>
 
 - 🌱 I’m currently learning **Creación de páginas web con inteligencia artificial**
 
